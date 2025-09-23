@@ -9,3 +9,4 @@ This repository contains my projects from Angela Yu’s 100 Days of Python Code 
 - [Day 04: Rock Paper Scissors](./Day-04/)
 - [Day 05: python password generator](./Day-05)
 - [Day 06: Escaping the maze](./Day-06/)
+- [Day 07: Hangman game](./Day-07/)
