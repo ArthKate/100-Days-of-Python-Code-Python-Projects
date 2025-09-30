@@ -43,7 +43,7 @@ while  chances > 0:
     print("Too low.")
     chances -= 1
     if chances == 0:
-      print("Game Over!")
+      print("You've run out of guesses, you lose!")
       print("\n")
       print("Refresh the page to play again")
       break
