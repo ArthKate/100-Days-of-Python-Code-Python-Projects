@@ -14,4 +14,5 @@ This repository contains my projects from Angela Yu’s 100 Days of Python Code 
 - [Day 09: Blind Auction](./Day-09/)
 - [Day 10: Calculator Project](./Day-10/)
 - [Day 11: Blackjack game](./Day-11/)
--[Day 12: Number Guessing game](./Day-12/)
+- [Day 12: Number Guessing game](./Day-12/)
+- [Day 16: Quiz Project](./Day-17/)
