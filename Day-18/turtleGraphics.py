@@ -58,15 +58,14 @@ sides_and_colors = {
 # Todo: 4 Random walk
 
 import random
-angle_direction = [turtle.rt, turtle.lt]
+direction = [ 0, 90, 180, 270]
 
 for _ in range(200):
     clr = generate_color()
     turtle.pencolor(clr)
-    turn = random.choice(angle_direction)
-    turtle.fd(15)
-    turn(90)
-    turtle.fd(15)
+    turtle.fd(25)
+    turtle.setheading(random.choice(direction))
+
 
 
 
