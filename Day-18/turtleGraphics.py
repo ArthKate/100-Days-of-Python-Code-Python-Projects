@@ -59,6 +59,7 @@ sides_and_colors = {
 
 import random
 direction = [ 0, 90, 180, 270]
+turtle.speed("fastest")
 
 for _ in range(200):
     clr = generate_color()
